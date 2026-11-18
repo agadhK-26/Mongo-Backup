@@ -1,3 +1,21 @@
+
+## 👥 Contributors
+
+| Register No. | Name | GitHub |
+|---|---|---|
+| RA2411026011299 | **Agadh Khanolkar** | [@agadhK-26](https://github.com/agadhK-26) |
+| RA2411033010017 | **Kushagra Agarwal** | |
+| RA2411033010024 | **Arnav Kumar** | |
+
+## 🎓 Course
+
+| | |
+|---|---|
+| **Course** | Linux and Container Technologies |
+| **Course Code** | 21CSE216P |
+| **Programme** | B.Tech Computer Science & Engineering |
+| **Institution** | SRM Institute of Science and Technology, School of Computing, Kattankulathur |
+| **Project** | Automated MongoDB Backup and Recovery System using Podman Containerization |
 ### 📦 Public container images
 
 [![Docker Hub Backend](https://img.shields.io/badge/Docker%20Hub-backend-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/agadhk/mongo-backup-backend)
